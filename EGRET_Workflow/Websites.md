@@ -6,7 +6,7 @@ https://github.com/USGS-R/EGRET/wiki
 
 ---------------------------------------------------------
 
-### 8-digit Site ID from National Water Information System: Mapper http://maps
+### 8-digit Site ID from National Water Information System
 http://waterdata.usgs.gov/nwis
 
 ---------------------------------------------------------
@@ -31,7 +31,7 @@ http://nwis.waterdata.usgs.gov/nwis/pmcodes/
 
 ---------------------------------------------------------
 
-### Info about publication remarks - "A"=aproved for publication  and "P"=provisional
+### Info about publication remarks - "A"=approved for publication  and "P"=provisional
 http://waterdata.usgs.gov/usa/nwis/help?codes_help
 
 ---------------------------------------------------------
