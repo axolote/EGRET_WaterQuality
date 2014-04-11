@@ -6,6 +6,11 @@ https://github.com/USGS-R/EGRET/wiki
 
 ---------------------------------------------------------
 
+### National Map
+http://maps.waterdata.usgs.gov/mapper/index.html
+
+---------------------------------------------------------
+
 ### 8-digit Site ID from National Water Information System
 http://waterdata.usgs.gov/nwis
 
@@ -53,9 +58,18 @@ http://www.waterqualitydata.us/
 http://www.epa.gov/storet/dw_home.html
 
 ---------------------------------------------------------
+---------------------------------------------------------
 
 
+### Useful URLs
 
+### SiteID
+#### Colorado: 
+http://waterdata.usgs.gov/nwis/inventory?state_cd=co&group_key=county_cd&format=sitefile_output&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&column_name=site_tp_cd&column_name=dec_lat_va&column_name=dec_long_va&list_of_search_criteria=state_cd
 
+### California:
+http://waterdata.usgs.gov/nwis/inventory?state_cd=ca&group_key=county_cd&format=sitefile_output&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&column_name=site_tp_cd&column_name=dec_lat_va&column_name=dec_long_va&list_of_search_criteria=state_cd
+
+---------------------------------------------------------
 
 
